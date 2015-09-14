@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jhlee/AndroidStudioProjects/Tank_Blutooth/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/jhlee/AndroidStudioProjects/Tank_Blutooth/app/build/intermediates/pre-dexed/debug/classes-b60fe269cf3f682ac3bb1a07b7e2f8b37645a58d.jar" />
+    </item>
+    <item
+        jar="/Users/jhlee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/jhlee/AndroidStudioProjects/Tank_Blutooth/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-3b8cbac02332b2c420b50a8a3f777120230ddb9c.jar" />
+    </item>
+    <item
+        jar="/Users/jhlee/AndroidStudioProjects/Tank_Blutooth/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/jhlee/AndroidStudioProjects/Tank_Blutooth/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-0d9b92225b34cdc8275af60c334185fc4e23a6dd.jar" />
+    </item>
+    <item
+        jar="/Users/jhlee/AndroidStudioProjects/Tank_Blutooth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/jhlee/AndroidStudioProjects/Tank_Blutooth/app/build/intermediates/pre-dexed/debug/classes-0736c23f161d6d7999e9092d64e2dc834de4f6e5.jar" />
+    </item>
+
+</items>
